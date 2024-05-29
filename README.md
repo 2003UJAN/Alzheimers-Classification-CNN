@@ -1,1 +1,1 @@
-# Alz
+# Alzheimers-Classification-CNN
